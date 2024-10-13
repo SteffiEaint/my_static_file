@@ -21,6 +21,6 @@ When I am free, I tend to do these things to pass my leisure time:
 
 Thank you for taking your time to read this page!💖
 
-![Image of a cute character showing thank you](https://static.vecteezy.com/system/resources/previews/008/846/799/non_2x/turtle-cute-character-free-download-transparent-image-illustration-clipart-pet-wildlife-free-png.png)
+![Image of a cute character showing thank you](https://cdn-icons-png.flaticon.com/512/8560/8560688.png)
 
 This site was built using [GitHub Pages](https://pages.github.com/).
